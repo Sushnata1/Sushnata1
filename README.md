@@ -34,14 +34,14 @@
 - School : St. Mary’s Higher Secondary School, New Cooch Behar
 - Board : ISC
 - Subjects :  English, Mathematics, Physics, Chemistry, Computer Science
-- Percentage(Best of 3) : ![88.30](https://progress-bar.xyz/88/)  [![99](https://progress-bar.xyz/99/) in Computer Science ]
+- Percentage(Best of 3) : ![88.30](https://progress-bar.xyz/88/)  [Computer Science : ![99](https://progress-bar.xyz/99/)]
 - Year of Passing : 2014
 
 ### Class 10 :
 - School : St. Mary’s Higher Secondary School, New Cooch Behar, Cooch Behar
 - Board : ICSE
 - Subjects : English, Bengali, Science, Mathematics, History & Civics, Geography, Computer Applications
-- Percentage(Best of 5) : ![88.80](https://progress-bar.xyz/89/) [![100](https://progress-bar.xyz/100/) in Computer Applications ] 
+- Percentage(Best of 5) : ![88.80](https://progress-bar.xyz/89/) [Computer Applications : ![100](https://progress-bar.xyz/100/)] 
 - Year of Passing : 2012
 
 ## Computer proficiency
@@ -97,7 +97,7 @@ Date of Birth: December 12 , 1995
 - Present :
     >'Omkar Abasan',
     > 15, Baruipara lane,
-    > Baranagar
+    > Baranagar,
     > Kolkata-700035	
 
 ### Language Proficiency 
