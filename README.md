@@ -46,7 +46,7 @@
 
 ## Computer proficiency
 - Operating Systems: Windows, Ubuntu, Kali
-- Programming Languages: C, C++, Java, Python, Javascript, Typescript, Php
+- Programming Languages: ::C::, C++, Java, Python, Javascript, Typescript, Php
 - Database: Oracle, MySql, MongoDB
 - Basic Editing: Microsoft Office Suite, GIMP, Krita
 - Framework: Angular, LAMP, XAMP, Android Native, P5js, React
