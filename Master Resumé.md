@@ -1,5 +1,4 @@
-# Hi there 👋
-# This is my Resume 😊
+# Resumé 
 
 **Name :** Sushnata Sarkar
 
@@ -11,6 +10,7 @@
 > Seeking a job which provides me an ample opportunity to develop into an efficient Software Developer along with achieving organizational goals for the progress of the institution.
 
 ## Career Interest
+- Data Engineering 
 - Game Development
 - Software Development
 
@@ -67,12 +67,12 @@
 - Year of Passing : 2012
 
 ## Computer proficiency
-- Operating Systems: Windows, Ubuntu, Kali
-- Programming Languages: C, C++, Java, Python, _Javascript_, Typescript, Php
+- Operating Systems: Windows, Ubuntu
+- Programming Languages: Python, Javascript, Typescript, C, C++, Java, Php
 - Database: Oracle, MySql, MongoDB
 - Basic Editing: Microsoft Office Suite, GIMP, Krita
-- Framework: Angular, LAMP, XAMP, Android Native, P5js, _React_
-- Domain: Data Structures, Web Development, Mobile Application Development, Game Development, AI and Machine Learning
+- Frameworks and Tools: Apache Saprk, Apache Airflow, Apache Superset, LAMP, XAMP, Android Native, P5js
+- Domain: Data Engineering, Data Structures, Backend Development, Mobile Application Development, Game Development, AI and Machine Learning
 - Game Engine: Godot
 
 ## ACHEIVEMENTS
