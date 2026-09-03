@@ -14,6 +14,28 @@
 - Game Development
 - Software Development
 
+# Work Experience 
+
+## Tata Consultancy Services ( August 2021 - ... )
+
+### Now Pensiqons Lmited ( 2021 - 2023 ) 
+- United Kingdom
+- Tech Stack :
+	- Apollo Graphql
+	- MongoDB
+
+### Department of Social Protection ( 2024 )
+- Ireland 
+- Tech Stack :
+	- SOS JS7
+
+### Now Pensions Lmited ( 2025 - ... )
+- United Kingdom 
+- Tech Stack :
+	- Apache Airflow
+	- Apache Spark
+	- Apache Superset
+
 ## Academic Qualification
 
 ### Post-Graduation :
