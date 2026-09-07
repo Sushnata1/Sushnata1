@@ -14,22 +14,22 @@
 - Game Development
 - Software Development
 
-# Work Experience 
+## Work Experience 
 
-## Tata Consultancy Services ( August 2021 - ... )
+### Tata Consultancy Services ( August 2021 - ... )
 
-### Now Pensiqons Lmited ( 2021 - 2023 ) 
+#### Now Pensiqons Lmited ( 2021 - 2023 ) 
 - United Kingdom
 - Tech Stack :
 	- Apollo Graphql
 	- MongoDB
 
-### Department of Social Protection ( 2024 )
+#### Department of Social Protection ( 2024 )
 - Ireland 
 - Tech Stack :
 	- SOS JS7
 
-### Now Pensions Lmited ( 2025 - ... )
+#### Now Pensions Lmited ( 2025 - ... )
 - United Kingdom 
 - Tech Stack :
 	- Apache Airflow
@@ -68,9 +68,9 @@
 
 ## Computer proficiency
 - Operating Systems: Windows, Ubuntu
-- Programming Languages: Python, Javascript, Typescript, C, C++, Java, Php
-- Database: Oracle, MySql, MongoDB
-- Basic Editing: Microsoft Office Suite, GIMP, Krita
+- Programming Languages: Python, Javascript/Typescript, C/C++, Java, Php
+- Database: PostgreSqL, Oracle, MySql, MongoDB
+- Basic Editing: Microsoft Office Suite, Pixel Studio, LMMS, Audacity, Krita
 - Frameworks and Tools: Apache Saprk, Apache Airflow, Apache Superset, LAMP, XAMP, Android Native, P5js
 - Domain: Data Engineering, Data Structures, Backend Development, Mobile Application Development, Game Development, AI and Machine Learning
 - Game Engine: Godot
