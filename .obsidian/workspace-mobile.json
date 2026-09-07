@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engeneer Resume.md",
+                "file": "Gamedev Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Engeneer Resume"
+              "title": "Gamedev Resume"
             }
           },
           {
@@ -215,9 +215,9 @@
   },
   "active": "5e2aad5421281627",
   "lastOpenFiles": [
+    "Data Engeneer Resume.md",
     "Master Resume.md",
     "Gamedev Resume.md",
-    "Data Engeneer Resume.md",
     "README.md"
   ]
 }
